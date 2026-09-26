@@ -12,8 +12,7 @@
 
 **Resources/Tools utilized:** Patriot P210 512GB SATA 2.5" SSD (purchased), SanDisk Cruzer USB flash drive, Rufus, Windows 11 ISO, InsydeH2O Setup Utility, Norton Antivirus (optional).
 
-| Left Image Description | Right Image Description |
+| Patriot P210 512GB SSD | SanDisk Cruzer USB Flash Drive |
 | :---: | :---: |
-| ![Image 1](<img width="572" height="617" alt="image" src="https://github.com/user-attachments/assets/1293556b-1b5a-44ce-b3dd-cd62c9724383" />
-) | ![Image 2](<img width="209" height="176" alt="image" src="https://github.com/user-attachments/assets/6a0597aa-b461-4bc6-a794-3820ce9b37c4" />
-) |
+| ![Patriot SSD](<img width="572" height="617" alt="image" src="https://github.com/user-attachments/assets/90e5061f-6213-412b-8dbc-ad717f854fce" />) | ![SanDisk USB](<img width="209" height="176" alt="image" src="https://github.com/user-attachments/assets/2cfe4701-21b5-4c02-a5f8-16811d287682" />) |
+
