@@ -14,5 +14,5 @@
 
 | Patriot P210 512GB SSD | SanDisk Cruzer USB Flash Drive |
 | :---: | :---: |
-| ![Patriot SSD](<img width="572" height="617" alt="image" src="https://github.com/user-attachments/assets/90e5061f-6213-412b-8dbc-ad717f854fce" />) | ![SanDisk USB](<img width="209" height="176" alt="image" src="https://github.com/user-attachments/assets/2cfe4701-21b5-4c02-a5f8-16811d287682" />) |
+| <img src="https://github.com/user-attachments/assets/90e5061f-6213-412b-8dbc-ad717f854fce" width="250" /> | <img src="https://github.com/user-attachments/assets/2cfe4701-21b5-4c02-a5f8-16811d287682" width="250" /> |
 
