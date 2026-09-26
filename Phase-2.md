@@ -11,3 +11,9 @@
 ## Installation & Deployment Notes
 
 **Resources/Tools utilized:** Patriot P210 512GB SATA 2.5" SSD (purchased), SanDisk Cruzer USB flash drive, Rufus, Windows 11 ISO, InsydeH2O Setup Utility, Norton Antivirus (optional).
+
+| Left Image Description | Right Image Description |
+| :---: | :---: |
+| ![Image 1](<img width="572" height="617" alt="image" src="https://github.com/user-attachments/assets/1293556b-1b5a-44ce-b3dd-cd62c9724383" />
+) | ![Image 2](<img width="209" height="176" alt="image" src="https://github.com/user-attachments/assets/6a0597aa-b461-4bc6-a794-3820ce9b37c4" />
+) |
