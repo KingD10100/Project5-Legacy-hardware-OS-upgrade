@@ -1,4 +1,4 @@
-# Phase II
+# Phase 2: Hardware Remediation, OS Deployment & Post-Upgrade Validation
 
 ## Pre-Upgrade Operational Checklist
 
