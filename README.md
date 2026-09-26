@@ -49,3 +49,11 @@ Phase 2 focused on physical chassis disassembly and storage replacement, bypassi
 * Reconfigure InsydeH2O BIOS settings (enabled Legacy Support and disabled Secure Boot) to execute the MBR bootloader
 * Execute a clean installation of Windows 11 onto the newly provisioned SSD
 * Re-provision and restore the partitioned USB deployment media using Windows Disk Management
+
+---
+
+## Conclusion: Retrospective & Takeaways
+
+A post-upgrade analysis covering hardware lifecycle extension, software-layer security mitigations for legacy systems, and project takeaways.
+
+* [Read Full Retrospective & References](Conclusion.md)
