@@ -60,9 +60,35 @@ Once the installation finished and I landed on the fresh Windows 11 desktop, I p
 
 <img width="1032" height="311" alt="image" src="https://github.com/user-attachments/assets/dadee4ef-95cc-4f85-bf7a-9ed57e985d31" />
 
+Next, I cleaned up the flash drive I used for the installation. Windows leaves deployment drives split up with hidden boot partitions that you can't wipe from standard File Explorer, so I opened up Disk Management instead. I deleted the leftover volumes to clear the drive back to raw unallocated space, then ran a quick format to reset the SanDisk Cruzer.
 
+| Before: Partitioned Installation Media | After: Restored & Formatted Volume |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/7b636a4f-fcf6-4cb1-8696-703c0a68b794" width="350" /> | <img src="https://github.com/user-attachments/assets/4f9e18f6-96b6-41af-b2ef-c328dee82067" width="350" /> |
 
+### Stage 4: Post-Upgrade Verification & System Hardening
 
+The final step was running Windows Update and hardening the system. Because running the laptop in Legacy Mode bypasses hardware-level protections like Secure Boot, I wanted a solid backup plan to cover the security gap. I updated the new Windows and installed/updated Norton Antivirus to act as a real-time defense layer. Having aggressive heuristic scanning and traffic filtering running directly at the software layer gives the machine a strong defense-in-depth setup, making up for the missing hardware security features.
 
+### Stage 4: Post-Upgrade Verification & System Hardening
 
+The final step was running Windows Update and hardening the system. Because running the laptop in Legacy Mode bypasses hardware-level protections like Secure Boot, I wanted a solid backup plan to cover the security gap. I updated the new Windows and installed/updated Norton Antivirus to act as a real-time defense layer. Having aggressive heuristic scanning and traffic filtering running directly at the software layer gives the machine a strong defense-in-depth setup, making up for the missing hardware security features.
 
+### Stage 4: Post-Upgrade Verification & System Hardening
+
+The final step was running windows update and hardening the system. Because running the laptop in Legacy Mode bypasses hardware-level protections like Secure Boot, I wanted a solid backup plan to cover the security gap. I updated the new windows and installed/updated Norton Antivirus to act as a real-time defense layer. Having aggressive heuristic scanning and traffic filtering running directly at the software layer gives the machine a strong defense-in-depth setup, making up for the missing hardware security features.
+
+### Stage 4: Post-Upgrade Verification & System Hardening
+
+The final step was running windows update and hardening the system. Because running the laptop in Legacy Mode bypasses hardware-level protections like Secure Boot, I wanted a solid backup plan to cover the security gap. I updated the new windows and installed/updated Norton Antivirus to act as a real-time defense layer. Having aggressive heuristic scanning and traffic filtering running directly at the software layer gives the machine a strong defense-in-depth setup, making up for the missing hardware security features.
+
+#### Post-Upgrade Verification & Optimization
+
+* **Windows Activation:** Verified.
+* **HP Driver Updates:** Completed. Windows Update fetched critical component drivers, including a dedicated Realtek Semiconductor Corp. network interface update, alongside essential security baselines like the Windows Malicious Software Removal Tool (x64) and core .NET Framework definitions.
+* **Data Verification:** Verified. Confirmed that local data was completely secure on the redundant external USB drives, and successfully logged into cloud profiles to verify that browser settings and synced web profiles loaded seamlessly.
+* **Performance Check:** Completed. Boot times dropped from minutes down to a few seconds, applications launched instantly, and disk utilization stabilized under baseline workloads. Project is a success!
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70b39e0a-c576-427d-88df-6676da0c8204" alt="Verification Status" width="400" />
+</p>
