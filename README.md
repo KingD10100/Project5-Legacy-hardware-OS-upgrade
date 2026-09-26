@@ -55,5 +55,3 @@ Phase 2 focused on physical chassis disassembly and storage replacement, bypassi
 ## Conclusion: Retrospective & Takeaways
 
 A post-upgrade analysis covering hardware lifecycle extension, software-layer security mitigations for legacy systems, and project takeaways.
-
-* [Read Full Retrospective & References](Conclusion.md)
