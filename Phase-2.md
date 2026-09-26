@@ -70,18 +70,6 @@ Next, I cleaned up the flash drive I used for the installation. Windows leaves d
 
 The final step was running Windows Update and hardening the system. Because running the laptop in Legacy Mode bypasses hardware-level protections like Secure Boot, I wanted a solid backup plan to cover the security gap. I updated the new Windows and installed/updated Norton Antivirus to act as a real-time defense layer. Having aggressive heuristic scanning and traffic filtering running directly at the software layer gives the machine a strong defense-in-depth setup, making up for the missing hardware security features.
 
-### Stage 4: Post-Upgrade Verification & System Hardening
-
-The final step was running Windows Update and hardening the system. Because running the laptop in Legacy Mode bypasses hardware-level protections like Secure Boot, I wanted a solid backup plan to cover the security gap. I updated the new Windows and installed/updated Norton Antivirus to act as a real-time defense layer. Having aggressive heuristic scanning and traffic filtering running directly at the software layer gives the machine a strong defense-in-depth setup, making up for the missing hardware security features.
-
-### Stage 4: Post-Upgrade Verification & System Hardening
-
-The final step was running windows update and hardening the system. Because running the laptop in Legacy Mode bypasses hardware-level protections like Secure Boot, I wanted a solid backup plan to cover the security gap. I updated the new windows and installed/updated Norton Antivirus to act as a real-time defense layer. Having aggressive heuristic scanning and traffic filtering running directly at the software layer gives the machine a strong defense-in-depth setup, making up for the missing hardware security features.
-
-### Stage 4: Post-Upgrade Verification & System Hardening
-
-The final step was running windows update and hardening the system. Because running the laptop in Legacy Mode bypasses hardware-level protections like Secure Boot, I wanted a solid backup plan to cover the security gap. I updated the new windows and installed/updated Norton Antivirus to act as a real-time defense layer. Having aggressive heuristic scanning and traffic filtering running directly at the software layer gives the machine a strong defense-in-depth setup, making up for the missing hardware security features.
-
 #### Post-Upgrade Verification & Optimization
 
 * **Windows Activation:** Verified.
