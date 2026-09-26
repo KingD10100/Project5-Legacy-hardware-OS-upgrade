@@ -53,12 +53,12 @@ According to Microsoft (n.d.), an endpoint must satisfy the following criteria f
 
 ## Operational Checklist
 
-* [x] **Data Backup Executed:** Exported all critical user files, photos, and documents across two separate external USB storage devices to ensure redundancy and hardware fault tolerance.
-* [x] **Cloud Profile Synchronization:** Synchronized web-based configurations and browser profiles across individual Google user accounts, ensuring seamless cross-device accessibility and guaranteeing zero data loss post-installation.
-* [x] **PC Health Check Completed:** Documented that the device does not meet required specifications for standard Windows 11 deployment.
-* [x] **TPM 2.0 Status Isolated:** Confirmed hardware security module is not detected on the motherboard and is unavailable for platform binding.
-* [x] **Secure Boot Evaluated:** Verified firmware support, noting PCR7 platform binding is unsupported due to missing hardware security architecture.
-* [x] **Power Connection Secured:** Connected the laptop to continuous AC wall power to eliminate battery depletion risk during remediation.
+*  **Data Backup Executed:** Exported all critical user files, photos, and documents across two separate external USB storage devices to ensure redundancy and hardware fault tolerance.
+*  **Cloud Profile Synchronization:** Synchronized web-based configurations and browser profiles across individual Google user accounts, ensuring seamless cross-device accessibility and guaranteeing zero data loss post-installation.
+*  **PC Health Check Completed:** Documented that the device does not meet required specifications for standard Windows 11 deployment.
+*  **TPM 2.0 Status Isolated:** Confirmed hardware security module is not detected on the motherboard and is unavailable for platform binding.
+*  **Secure Boot Evaluated:** Verified firmware support, noting PCR7 platform binding is unsupported due to missing hardware security architecture.
+*  **Power Connection Secured:** Connected the laptop to continuous AC wall power to eliminate battery depletion risk during remediation.
 
 ---
 
